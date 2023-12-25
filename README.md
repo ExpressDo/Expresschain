@@ -1,6 +1,6 @@
 # Expresschain
 
-My Blockchain Project is a simple blockchain implementation in the Cairo programming language. This blockchain includes basic functionalities such as creating blocks, mining blocks using proof-of-work, and adding blocks to the chain.
+Express chain is a simple blockchain implementation in the Cairo programming language. This blockchain includes basic functionalities such as creating blocks, mining blocks using proof-of-work, and adding blocks to the chain.
 
 ## Getting Started
 
